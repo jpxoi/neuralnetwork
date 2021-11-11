@@ -1,6 +1,16 @@
 # neuralnetwork101
 Neural networks are composed of neurons, which in turn are grouped into layers: each neuron in each layer is connected to all the neurons in the previous layer. In each neuron, a series of operations will be performed which, by optimizing, we will get our network to learn.
 
+## What Do You Need To Run The Code?
+* Install latest version of Python at https://www.python.org/downloads/
+* Install Jupyter at https://jupyter.org/install
+* Install your favorite IDE or Code Editor (suggested: [Visual Studio Code](https://code.visualstudio.com) or [PyCharm](https://www.jetbrains.com/pycharm/download))
+* Install NumPy at https://numpy.org/install/
+* Install SciPy at https://scipy.org/install/
+* Install Matplotlib at https://matplotlib.org/stable/users/installing.html
+* Install scikit-learn at https://scikit-learn.org/stable/install.html
+* Install IPython at https://ipython.readthedocs.io/en/stable/install/index.html
+
 ## Neural Layers
 In order to program a layer of neurons, we must first have a good understanding of how they work. Basically, a neural network works as follows:
 
